@@ -1,0 +1,8 @@
+1 Batman 2008 ChristianBale
+1 Batman 2008 HeathLedger
+2 LaLaLand 2016 EmmaStone
+2 LaLaLand 2016 RyanGosling
+3 Gora 2004 CemYılmaz
+3 Gora 2004 OzanGüven
+4 Inception 2010 Leonardo-Dicaprio 
+
