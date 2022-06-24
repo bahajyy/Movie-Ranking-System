@@ -29,6 +29,11 @@ Functional:
 -The system should keep star information in text file.
 -The system should keep rating information in text file.
 -The system should check related files before adding new data to avoid duplicates. -The system should give information when a new data added/failed to add to 
+
+
+
+
+
 Nonfunctional:
 -Every page of the system should be visible within a 1 seconds. -The system should be accessible to web users.
 -The system should give warnings to the users within a 1 seconds. -The system must handle 40 transactions per second.
